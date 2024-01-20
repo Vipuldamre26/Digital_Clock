@@ -33,6 +33,7 @@ section{
     justify-content: start;
     position: relative;
     padding: 2rem;
+    flex-wrap: wrap;
 }
 
 h1{
